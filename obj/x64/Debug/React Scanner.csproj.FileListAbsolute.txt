@@ -1,0 +1,57 @@
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Dujob.exe.config
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Dujob.exe
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Dujob.pdb
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Discord.Net.Core.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Buffers.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.CodeDom.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Diagnostics.EventLog.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Interactive.Async.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Linq.Async.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Memory.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Reactive.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\React Scanner.csproj.AssemblyReference.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\Dujob.Form1.resources
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\Dujob.Properties.Resources.resources
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\React Scanner.csproj.GenerateResource.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\React Scanner.csproj.CoreCompileInputs.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\Dujob.exe
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\Dujob.pdb
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\React Sc.4D64BA48.Up2Date
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\pt-BR\Dujob.resources.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\Dujob.Form1.pt-BR.resources
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\x64\Debug\pt-BR\Dujob.resources.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Costura.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Discord.Net.Core.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\DiscordMessenger.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Siticone.Desktop.UI.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Buffers.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.CodeDom.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Diagnostics.EventLog.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Interactive.Async.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Linq.Async.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Memory.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Reactive.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Reactive.Windows.Forms.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Costura.pdb
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\x64\Debug\Costura.xml

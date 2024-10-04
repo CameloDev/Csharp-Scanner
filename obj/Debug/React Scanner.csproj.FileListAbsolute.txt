@@ -1,0 +1,33 @@
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Buffers.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.CodeDom.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Memory.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Reactive.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Reactive.Windows.Forms.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.AssemblyReference.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\Dujob.Form1.resources
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.GenerateResource.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.CoreCompileInputs.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.CopyComplete
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Dujob.exe.config
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Dujob.exe
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Dujob.pdb
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\Dujob.Properties.Resources.resources
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\Dujob.exe
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\Dujob.pdb
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Discord.Net.Core.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Collections.Immutable.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Interactive.Async.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.Linq.Async.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\bin\Debug\System.ValueTuple.xml
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.Fody.CopyLocal.cache
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\danki\Dujob\obj\Debug\React Scanner.csproj.Fody.RuntimeCopyLocal.cache
